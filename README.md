@@ -1,6 +1,5 @@
 # Material adicional
-<p><img src=https://zenodo.org/badge/DOI/10.5281/zenodo.10257481.svg></p>
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10257481.svg)](https://doi.org/10.5281/zenodo.10257481)
 Este repositorio contiene el material suplementario del artículo «Ex cenobio sancti Ysidori Legionensis usque ad Bibliothecam Regiam Belgicam: De _Partidas_, cronicones y Sermones romances», _Incipit_ 43 (2023).
 
 `PARTIDA-KRB.txt` contiene la transcripción, según las normas del Hispanic Seminary of Medieval Studies ([HSMS](http://www.hispanicseminary.org/manual-en.htm)), del fragmento de las _Siete Partidas_ (_Séptima Partida_) procedente del ms. XXIV de San Isidoro de León ([S24](https://7partidas.hypotheses.org/s24-el-fragmento-de-la-septima-partida-de-la-biblioteca-de-la-real-colegiata-de-san-isidoro-de-leon)) y que desde 1973 se encuentra en la Koninklijke Bibliotheek van België / Bibliothèque royale de Belgique (KRB) bajo la signatura [ms. IV 944 /5](https://opac.kbr.be/LIBRARY/doc/SYRACUSE/21611094). Acceso a la [reproducción digital](https://uurl.kbr.be/2082465).
