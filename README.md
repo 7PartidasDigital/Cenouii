@@ -1,5 +1,5 @@
 # Material adicional
-[](https://zenodo.org/badge/DOI/10.5281/zenodo.10257481.svg)
+<p><img src=https://zenodo.org/badge/DOI/10.5281/zenodo.10257481.svg></p>
 
 Este repositorio contiene el material suplementario del artículo «Ex cenobio sancti Ysidori Legionensis usque ad Bibliothecam Regiam Belgicam: De _Partidas_, cronicones y Sermones romances», _Incipit_ 43 (2023).
 
